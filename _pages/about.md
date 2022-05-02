@@ -16,16 +16,16 @@ News
 
 [Publications](https://meng72.github.io/publications/)
 ======
-**\[P4 Workshop'22\]** Accelerating 5G (Mobile Core) Control Plane using P4  
-**\[Edgesys'22\]** Do We Need Sophisticated System Design for Edge-assisted Augmented Reality?  
-**\[SIGCOMM NAI'21\]** Do Larger (More Accurate) Deep Neural Network Models Help in Edge-assisted Augmented Reality?   
-**\[ATC'21\]** Proactive Energy-Aware Adaptive Video Streaming on Mobile Devices  
-**\[ASPLOS'20\]** Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices  
-**\[LANMAN'20\]** A Study of Network-Side 5G User Localization Using Angle-Based Fingerprints  
-**\[Mobicom'19\]** Poster: Can Mobile Hardware Keep Up with Today’s Gigabit Wireless Technologies?  
-**\[SIGMETRICS'18\]** A Fine-grained Event-based Modem Power Model for Enabling In-depth Modem Energy Drain Analysis  
-**\[IMC'18\]** Mobility Support in Cellular Networks: A Measurement Study on Its Configurations and Implications  
-**\[NSDI'18\]** G-NET: Effective GPU Sharing in NFV Systems
+1. **P4 Workshop'22.** Jingqi Huang\*, **Jiayi Meng\***, Iftekharul Alam, Christian Maciocco, Y. Charlie Hu, Muhammad Shahbaz (*co-primary).*Accelerating 5G (Mobile Core) Control Plane using P4.*  
+2. **Edgesys'22.** **Jiayi Meng**, Zhaoning Kong, Y. Charlie Hu, Mun Gi Choi, Dhananjay Lal. *Do We Need Sophisticated System Design for Edge-assisted Augmented Reality?*  
+3. **SIGCOMM NAI'21.** **Jiayi Meng\***, Zhaoning Kong\*, Qiang Xu, Y. Charlie Hu (*co-primary). *Do Larger (More Accurate) Deep Neural Network Models Help in Edge-assisted Augmented Reality?*   
+4. **ATC'21.** **Jiayi Meng**, Qiang Xu, Y. Charlie Hu. *Proactive Energy-Aware Adaptive Video Streaming on Mobile Devices*  
+5. **ASPLOS'20.** **Jiayi Meng\***, Sibendu Paul\*, Y. Charlie Hu (*co-primary). *Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices.*  
+6. **LANMAN'20.** **Jiayi Meng**, Abhigyan Sharma, Tuyen X. Tran, Bharath Balasubramanian, Gueyoung Jung, Matti Hiltunen and Y. Charlie Hu. *A Study of Network-Side 5G User Localization Using Angle-Based Fingerprints.*  
+7. **Mobicom'19.** Aggarwal, Shivang, Swetank Kumar Saha, Pranab Dash, **Jiayi Meng**, Arvind Thirumurugan, Dimitrios Koutsonikolas, Y. Charlie Hu. *Poster: Can Mobile Hardware Keep Up with Today’s Gigabit Wireless Technologies?*  Jiayi Meng, Abhigyan Sharma, Tuyen X. Tran, Bharath Balasubramanian, Gueyoung Jung, Matti Hiltunen and Y. Charlie Hu. 
+8. **SIGMETRICS'18.** Xiaomeng Chen, **Jiayi Meng**, Y. Charlie Hu, Maruti Gupta, Ralph Hasholzner, Venkatesan Nallampatti Ekambaram, Ashish Singh, Srikathyayani Srikanteswara. *A Fine-grained Event-based Modem Power Model for Enabling In-depth Modem Energy Drain Analysis.*  
+8. **IMC'18.** Haotian Deng, Chunyi Peng, Ans Fida, **Jiayi Meng**, Y. Charlie Hu. *Mobility Support in Cellular Networks: A Measurement Study on Its Configurations and Implications.*  
+8. **NSDI'18.** Kai Zhang, Bingsheng He, Jiayu Hu, Zeke Wang, Bei Hua, **Jiayi Meng**, Lishan Yang. *G-NET: Effective GPU Sharing in NFV Systems.*
 
 Services
 ======
