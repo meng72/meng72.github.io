@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![Download CV](../files/CV_Jiayi_Meng_092021.pdf)
+
 Education
 ======
 * Master \& Ph.D in Computer Science, Purdue University, 2023 (expected)
