@@ -17,7 +17,7 @@ News
 Publications
 ======
 1. **P4 Workshop'22.** Jingqi Huang\*, **Jiayi Meng\***, Iftekharul Alam, Christian Maciocco, Y. Charlie Hu, Muhammad Shahbaz (*co-primary). *Accelerating 5G (Mobile Core) Control Plane using P4.*  
-2. **Edgesys'22.** **Jiayi Meng**, Zhaoning Kong, Y. Charlie Hu, Mun Gi Choi, Dhananjay Lal. *Do We Need Sophisticated System Design for Edge-assisted Augmented Reality?* 
+2. **Edgesys'22.** **Jiayi Meng**, Zhaoning Kong, Y. Charlie Hu, Mun Gi Choi, Dhananjay Lal. *Do We Need Sophisticated System Design for Edge-assisted Augmented Reality?* ![](../files/best_paper.svg)
 3. **SIGCOMM NAI'21.** **Jiayi Meng\***, Zhaoning Kong\*, Qiang Xu, Y. Charlie Hu (*co-primary). *Do Larger (More Accurate) Deep Neural Network Models Help in Edge-assisted Augmented Reality?*   
 4. **ATC'21.** **Jiayi Meng**, Qiang Xu, Y. Charlie Hu. *Proactive Energy-Aware Adaptive Video Streaming on Mobile Devices*  
 5. **ASPLOS'20.** **Jiayi Meng\***, Sibendu Paul\*, Y. Charlie Hu (*co-primary). *Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices.*  
